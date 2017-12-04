@@ -1,0 +1,39 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Database structure}{}% 2
+\BOOKMARK [1][-]{section.3}{Native currency: bytes}{}% 3
+\BOOKMARK [1][-]{section.4}{Double-spends}{}% 4
+\BOOKMARK [1][-]{section.5}{The main chain}{}% 5
+\BOOKMARK [1][-]{section.6}{Witnesses}{}% 6
+\BOOKMARK [1][-]{section.7}{Finality}{}% 7
+\BOOKMARK [1][-]{section.8}{Storage of nonserial units}{}% 8
+\BOOKMARK [1][-]{section.9}{Balls}{}% 9
+\BOOKMARK [1][-]{section.10}{Last ball}{}% 10
+\BOOKMARK [1][-]{section.11}{Witness list unit}{}% 11
+\BOOKMARK [1][-]{section.12}{Unit structure}{}% 12
+\BOOKMARK [1][-]{section.13}{Commissions}{}% 13
+\BOOKMARK [1][-]{section.14}{Confirmation time}{}% 14
+\BOOKMARK [1][-]{section.15}{Partitioning risk}{}% 15
+\BOOKMARK [1][-]{section.16}{Censorship}{}% 16
+\BOOKMARK [1][-]{section.17}{Choosing witnesses}{}% 17
+\BOOKMARK [1][-]{section.18}{Skiplist}{}% 18
+\BOOKMARK [1][-]{section.19}{Light clients}{}% 19
+\BOOKMARK [1][-]{section.20}{Multilateral signing}{}% 20
+\BOOKMARK [1][-]{section.21}{Addresses}{}% 21
+\BOOKMARK [2][-]{subsection.21.1}{Definition syntax}{section.21}% 22
+\BOOKMARK [2][-]{subsection.21.2}{General requirements}{section.21}% 23
+\BOOKMARK [1][-]{section.22}{Profiles}{}% 24
+\BOOKMARK [1][-]{section.23}{Attestations}{}% 25
+\BOOKMARK [1][-]{section.24}{Assets}{}% 26
+\BOOKMARK [2][-]{subsection.24.1}{Bank issued assets}{section.24}% 27
+\BOOKMARK [2][-]{subsection.24.2}{Non-financial assets}{section.24}% 28
+\BOOKMARK [2][-]{subsection.24.3}{Bonds}{section.24}% 29
+\BOOKMARK [2][-]{subsection.24.4}{Commodity bonds}{section.24}% 30
+\BOOKMARK [2][-]{subsection.24.5}{Funds}{section.24}% 31
+\BOOKMARK [2][-]{subsection.24.6}{Settlements}{section.24}% 32
+\BOOKMARK [1][-]{section.25}{Private payments}{}% 33
+\BOOKMARK [1][-]{section.26}{Fixed denominations assets}{}% 34
+\BOOKMARK [1][-]{section.27}{Texts}{}% 35
+\BOOKMARK [1][-]{section.28}{Arbitrary structured data}{}% 36
+\BOOKMARK [1][-]{section.29}{Voting}{}% 37
+\BOOKMARK [1][-]{section.30}{Private Messaging}{}% 38
+\BOOKMARK [1][-]{section.31}{Conclusion}{}% 39
